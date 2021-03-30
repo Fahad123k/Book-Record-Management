@@ -1,0 +1,14 @@
+.list
+{
+	color: blue;
+	font-size: 20px;
+	
+	}
+.Container
+{
+	height: 200px;
+	width: 800px;
+background-color: red;
+
+	align-content: center;
+}

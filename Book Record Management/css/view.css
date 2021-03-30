@@ -1,0 +1,19 @@
+#tableCss
+{
+	border-style:solid;
+	border-color: red;
+	width: 500px;
+	text-align: left;
+	background-color: white;
+}
+.headTable
+{
+	background-color: green;
+color: white;
+}
+
+td
+{
+	color: blue;
+	background-color:lightgreen;
+}
